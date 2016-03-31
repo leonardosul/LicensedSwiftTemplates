@@ -10,6 +10,7 @@ You can select from your favorite open source licenses to be embedded in the hea
 - [MIT](http://opensource.org/licenses/mit-license)
 - [Apache 2.0](http://opensource.org/licenses/Apache-2.0)
 - [BSD 3-Clause](http://opensource.org/licenses/BSD-3-Clause)
+- [GPL v3](http://opensource.org/licenses/GPL-3.0)
 - [Zlib](http://opensource.org/licenses/Zlib)
 - [The Unlicense](http://unlicense.org/)
 
